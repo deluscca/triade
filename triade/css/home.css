@@ -1,0 +1,10 @@
+p {
+  float: right;
+  padding-right: 15px;
+}
+
+a.nav-link {
+  width: 160px;
+  margin-left: 60px;
+}
+
