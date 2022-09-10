@@ -1,0 +1,10 @@
+p.bem_vindo {
+  float: right;
+  padding-right: 15px;
+  padding-top: 10px;
+}
+
+a.nav-link {
+  width: 160px;
+  margin-left: 60px;
+}

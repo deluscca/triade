@@ -1,0 +1,29 @@
+p.bem_vindo {
+    float: right;
+    padding-right: 15px;
+    padding-top: 10px;
+  }
+  
+a.nav-link {
+    width: 160px;
+    margin-left: 60px;
+}
+  
+div.first_line {
+    display: flex;
+    margin-top: 50px;
+}  
+
+footer {
+    padding-top: 60px;
+}
+
+p {
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+div.categoria {
+    margin-top: 20px;
+    margin-left: 150px;
+}
